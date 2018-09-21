@@ -31,7 +31,7 @@ https://chandramanitiwary.wordpress.com/2013/09/10/class-imbalance-smote-and-r/ 
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/DMwR/DMwR.pdf
 
-### varSelRF
+### unbalanced
 
 Examples: <br>
 https://github.com/dalpozz/unbalanced <br>
